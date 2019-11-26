@@ -1,10 +1,10 @@
-# Measurement Units
+# Services
 
-![npm license](https://img.shields.io/npm/l/@enso-ui/measurement-units.svg) 
-![npm download](https://img.shields.io/npm/dm/@enso-ui/measurement-units.svg) 
-![GitHub top language](https://img.shields.io/github/languages/top/enso-ui/measurement-units.svg) 
-![GitHub issues](https://img.shields.io/github/issues/enso-ui/measurement-units.svg) 
-![npm version](https://img.shields.io/npm/v/@enso-ui/measurement-units.svg) 
+![npm license](https://img.shields.io/npm/l/@enso-ui/services.svg) 
+![npm download](https://img.shields.io/npm/dm/@enso-ui/services.svg) 
+![GitHub top language](https://img.shields.io/github/languages/top/enso-ui/services.svg) 
+![GitHub issues](https://img.shields.io/github/issues/enso-ui/services.svg) 
+![npm version](https://img.shields.io/npm/v/@enso-ui/services.svg) 
 
 ## Usage
 The component cannot be used outside of the Enso ecosystem.
@@ -15,7 +15,7 @@ For live examples and demos, you may visit [laravel-enso.com](https://www.larave
 
 ### Installation, Configuration & Usage
 
-Be sure to check out the full documentation for this package available at [docs.laravel-enso.com](https://docs.laravel-enso.com/frontend/measurement-units.html)
+Be sure to check out the full documentation for this package available at [docs.laravel-enso.com](https://docs.laravel-enso.com/frontend/services.html)
 
 ## Contributions
 
