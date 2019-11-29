@@ -1,7 +1,7 @@
-const ServiceCreate = () => import('../../../pages/administration/services/Create.vue');
+const ServiceCreate = () => import('../../pages/services/Create.vue');
 
 export default {
-    name: 'administration.services.create',
+    name: 'services.create',
     path: 'create',
     component: ServiceCreate,
     meta: {

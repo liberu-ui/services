@@ -1,7 +1,7 @@
-const ServiceEdit = () => import('../../../pages/administration/services/Edit.vue');
+const ServiceEdit = () => import('../../pages/services/Edit.vue');
 
 export default {
-    name: 'administration.services.edit',
+    name: 'services.edit',
     path: ':service/edit',
     component: ServiceEdit,
     meta: {
